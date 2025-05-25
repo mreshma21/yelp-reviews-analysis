@@ -27,7 +27,7 @@ This project analyzes Yelp reviews and business data using **sentiment analysis*
 - **User-Defined Functions (UDFs)** (Sentiment analysis)
 
 ## Project Architecture
-![Project Architecture](https://github.com/user-attachments/assets/fbf87ebe-c5f6-4360-bd79-5554b29e2f06)
+![Project Architecture](https://github.com/user-attachments/assets/ce2eb537-2606-4e23-8cd9-ce67f892d004)
 
 
 
